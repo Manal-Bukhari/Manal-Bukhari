@@ -367,7 +367,7 @@ I'm passionate about:
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 * **Email:** manalbukhari2233@gmail.com
 * **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
@@ -378,13 +378,13 @@ I'm passionate about:
 
 ## 🎯 2025 Goals
 
-- ✅ Complete CarbonSense FYP with comprehensive thesis
-- 🚀 Deploy all major projects to production
-- 📚 Publish research paper on climate tech or AI
-- 💼 Secure meaningful internship in AI/Climate Tech/Security
-- 🎓 Get accepted into top MS programs for Fall 2025
-- 🌱 Contribute to open-source climate/security projects
-- 📈 Build a strong portfolio of impactful applications
+-  Complete CarbonSense FYP with comprehensive thesis
+-  Deploy all major projects to production
+-  Publish research paper on climate tech or AI
+-  Secure meaningful internship in AI/Climate Tech/Security
+-  Get accepted into top MS programs for Fall 2025
+-  Contribute to open-source climate/security projects
+-  Build a strong portfolio of impactful applications
 
 ---
 
@@ -401,12 +401,12 @@ Special thanks to:
 ## 📚 Technical Blog (Coming Soon)
 
 I'm planning to write about:
-- 🔐 Implementing End-to-End Encryption in Web Apps
-- 🤖 Understanding Mixture-of-Experts Architecture
-- 📊 Time-Series Forecasting for Climate Data
-- 🏗️ Building Offline-First Applications
-- 🔒 Web Security Best Practices
-- 🌍 Tech for Climate Action
+-  Implementing End-to-End Encryption in Web Apps
+-  Understanding Mixture-of-Experts Architecture
+-  Time-Series Forecasting for Climate Data
+-  Building Offline-First Applications
+-  Web Security Best Practices
+-  Tech for Climate Action
 
 ---
 
@@ -414,13 +414,13 @@ I'm planning to write about:
 
 ---
 
-**🌟 Profile Highlights:**
-- 🎓 CS Student @ FAST-NUCES Lahore
-- 🌍 Climate Tech Researcher
-- 🔒 Security-Conscious Developer
-- 🤖 AI/ML Enthusiast
-- 🚀 Full-Stack Engineer
-- 📊 6 Major Projects Across Multiple Domains
+** Profile Highlights:**
+-  CS Student @ FAST-NUCES Lahore
+-  Climate Tech Researcher
+-  Security-Conscious Developer
+-  AI/ML Enthusiast
+-  Full-Stack Engineer
+-  6 Major Projects Across Multiple Domains
 
 ---
 
