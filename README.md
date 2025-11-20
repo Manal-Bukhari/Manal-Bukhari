@@ -348,16 +348,6 @@ I'm passionate about:
 
 ---
 
-## 📊 GitHub Statistics
-
-![Manal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manal-Bukhari&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manal-Bukhari&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manal-Bukhari&theme=radical&hide_border=true)
-
----
-
 ## 💡 Fun Facts
 
 *  Chess enthusiast working on improving strategic thinking
