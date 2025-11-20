@@ -360,7 +360,7 @@ I'm passionate about:
 ##  Let's Connect
 
 * **Email:** manalbukhari2233@gmail.com
-* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/syeda-manal-bukhari)
 * **GitHub:** [@Manal-Bukhari](https://github.com/Manal-Bukhari)
 * **Location:** Lahore, Pakistan 🇵🇰
 
