@@ -67,12 +67,12 @@ I focus on shipping production-ready projects (mobile + web), implementing secur
 - Building full-stack web and mobile applications
 
 **Teaching Assistant (TA)** — FAST-NUCES
-- Managing assignments and creating quizzes for data structures courses
-- Helping students with project proposals, code reviews, and evaluations
+- Data structures, Applied Programming, Web Programming, Brand Management
+- Helping students with projects, code reviews, and evaluations
 - Mentoring peers on software engineering best practices
 
 **Volunteer** — Campus Tech Events
-- Graphic design & event support for TEDx, SOFTEC, Job Fairs
+- Graphic design & event support for TEDx, SOFTEC, WIT
 - Women in Computing (WIC) and MLSA events
 - Blood Drive volunteer with OED Welfare
 
@@ -401,21 +401,4 @@ I'm planning to write about:
 ---
 
 *💡 "Building technology that matters, one commit at a time." – Manal Bukhari*
-
----
-
-** Profile Highlights:**
--  CS Student @ FAST-NUCES Lahore
--  Climate Tech Researcher
--  Security-Conscious Developer
--  AI/ML Enthusiast
--  Full-Stack Engineer
--  6 Major Projects Across Multiple Domains
-
----
-
-*Last Updated: November 2025*
-
----
-
 ⭐ **Star my repositories if you find them interesting!** ⭐
